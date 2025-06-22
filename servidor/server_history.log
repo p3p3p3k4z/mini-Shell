@@ -1,0 +1,2471 @@
+[2025-06-08 20:10:47] [Cliente 127.0.0.1:55088 - Saludo recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-08 20:10:47] [Servidor a Cliente 127.0.0.1:55088 - Saludo enviado (inesperado)]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 20:10:47] --- Cliente 127.0.0.1:55088 (Desconocido) - Inicio de observación de shell ---
+[2025-06-08 20:10:48] [Cliente 127.0.0.1:55088 - MENSAJE SIN FORMATO]: server
+server.c
+server_log.txt
+shell
+shell.c
+
+[2025-06-08 20:11:35] [Cliente 127.0.0.1:55088 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ pstree | grep systemd  |head -n 5
+
+[2025-06-08 20:11:36] [Cliente 127.0.0.1:55088 - MENSAJE SIN FORMATO]: systemd-+-ModemManager---2*[{ModemManager}]
+        |-systemd-+-(sd-pam)
+        |-systemd-journal
+        |-systemd-logind
+        |-systemd-timesyn---{systemd-timesyn}
+
+[2025-06-08 20:33:31] [Cliente 127.0.0.1:35500 - Saludo recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ passwd
+
+[2025-06-08 20:33:31] [Servidor a Cliente 127.0.0.1:35500 - Saludo enviado (inesperado)]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 20:33:31] --- Cliente 127.0.0.1:35500 (Desconocido) - Inicio de observación de shell ---
+[2025-06-08 20:33:37] [Cliente 127.0.0.1:35500 - MENSAJE SIN FORMATO]: Cambiando la contraseña de m4r10.
+
+[2025-06-08 20:33:41] [Cliente 127.0.0.1:35500 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 20:33:42] [Cliente 127.0.0.1:35500 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 20:33:43] [Cliente 127.0.0.1:35500 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-08 20:33:44] [Cliente 127.0.0.1:35500 - MENSAJE SIN FORMATO]: server
+server.c
+server_log.txt
+shell
+shell.c
+
+[2025-06-08 20:35:14] [Cliente 127.0.0.1:35500 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ passwd
+
+[2025-06-08 20:35:18] [Cliente 127.0.0.1:35500 - MENSAJE SIN FORMATO]: Cambiando la contraseña de m4r10.
+
+[2025-06-08 20:35:19] [Cliente 127.0.0.1:35500 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 20:35:20] [Cliente 127.0.0.1:35500 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 20:35:22] [Cliente 127.0.0.1:35500 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-08 20:35:23] [Cliente 127.0.0.1:35500 - MENSAJE SIN FORMATO]: server
+server.c
+server_log.txt
+shell
+shell.c
+
+[2025-06-08 20:40:39] [Cliente 127.0.0.1:35500 - MENSAJE SIN FORMATO]: supercalifragilisticoespilaridoso
+[2025-06-08 20:40:40] [Cliente 127.0.0.1:35500 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+[2025-06-08 20:40:41] [Cliente 127.0.0.1:35500 - MENSAJE SIN FORMATO]: supercalifragilisticoespilaridoso/home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+[2025-06-08 20:40:41] [Cliente 127.0.0.1:35500]: Desconectado normalmente.
+[2025-06-08 20:40:41] --- Cliente 127.0.0.1:35500 - Fin de conexión ---
+[2025-06-08 20:41:15] [Cliente 127.0.0.1:52020 - Saludo recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-08 20:41:15] [Servidor a Cliente 127.0.0.1:52020 - Saludo enviado (respuesta a inesperado)]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 20:41:15] --- Cliente 127.0.0.1:52020 (Desconocido) - Inicio de observación de shell ---
+[2025-06-08 20:41:16] [Cliente 127.0.0.1:52020 - MENSAJE SIN FORMATO]: server
+server.c
+server_log.txt
+shell
+shell.c
+
+[2025-06-08 20:41:34] [Cliente 127.0.0.1:52020 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ passwd
+
+[2025-06-08 20:41:38] [Cliente 127.0.0.1:52020 - MENSAJE SIN FORMATO]: Cambiando la contraseña de m4r10.
+
+[2025-06-08 20:41:40] [Cliente 127.0.0.1:52020 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 20:41:41] [Cliente 127.0.0.1:52020 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 20:41:42] [Cliente 127.0.0.1:52020 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-08 20:41:43] [Cliente 127.0.0.1:52020 - MENSAJE SIN FORMATO]: server
+server.c
+server_log.txt
+shell
+shell.c
+
+[2025-06-08 20:41:46] [Cliente 127.0.0.1:52020 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-08 20:41:47] [Cliente 127.0.0.1:52020 - MENSAJE SIN FORMATO]: server
+server.c
+server_log.txt
+shell
+shell.c
+
+[2025-06-08 20:42:28] [Cliente 127.0.0.1:52020 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ supercalifragilisticoespilaridoso
+
+[2025-06-08 20:42:29] [Cliente 127.0.0.1:52020 - MENSAJE SIN FORMATO]: execvp failed
+
+[2025-06-08 20:43:44] [Cliente 127.0.0.1:44966 - Saludo recibido]: HOLA_CLIENTE:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 20:43:44] [Servidor a Cliente 127.0.0.1:44966 - Saludo enviado]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 20:43:44] --- Cliente 127.0.0.1:44966 (Debian GNU/Linux 12 (bookworm)) - Inicio de observación de shell ---
+[2025-06-08 20:43:49] [Cliente 127.0.0.1:44966 - COMANDO]: ls
+[Cliente 127.0.0.1:44966 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+[2025-06-08 20:44:53] [Cliente 127.0.0.1:44966 - COMANDO]: passwd
+[Cliente 127.0.0.1:44966 - SALIDA]: Contraseña actual: 
+passwd: Error de manipulación del testigo de autenticación
+passwd: no se ha cambiado la contraseña
+Cambiando la contraseña de m4r10.
+[2025-06-08 20:44:53] [Servidor a Cliente]: 'hacked\n' enviado. Cerrando conexión.
+[2025-06-08 20:44:56] --- Cliente 127.0.0.1:44966 - Fin de conexión ---
+[2025-06-08 20:45:00] [Cliente 127.0.0.1:59742 - Saludo recibido]: HOLA_CLIENTE:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 20:45:00] [Servidor a Cliente 127.0.0.1:59742 - Saludo enviado]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 20:45:00] --- Cliente 127.0.0.1:59742 (Debian GNU/Linux 12 (bookworm)) - Inicio de observación de shell ---
+[2025-06-08 20:45:15] [Cliente 127.0.0.1:59742 - COMANDO]: supercalifragilisticoespilaridoso
+[Cliente 127.0.0.1:59742 - SALIDA]: minishell: No such file or directory
+[2025-06-08 20:45:15] [Servidor a Cliente]: 'No es posible interrumpir usando ctrl + c' enviado.
+[2025-06-08 20:45:21] [Cliente 127.0.0.1:59742 - EVENTO]: MINISHELL_EOF
+[2025-06-08 20:45:21] --- Cliente 127.0.0.1:59742 - Fin de conexión ---
+[2025-06-08 20:47:30] [Cliente 127.0.0.1:59908 - Saludo recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+[2025-06-08 20:47:30] [Servidor a Cliente 127.0.0.1:59908 - Saludo enviado (respuesta a inesperado)]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 20:47:30] --- Cliente 127.0.0.1:59908 (Desconocido) - Inicio de observación de shell ---
+[2025-06-08 20:47:31] [Cliente 127.0.0.1:59908]: Desconectado normalmente.
+[2025-06-08 20:47:31] --- Cliente 127.0.0.1:59908 - Fin de conexión ---
+[2025-06-08 20:47:42] [Cliente 127.0.0.1:32888 - Saludo recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-08 20:47:42] [Servidor a Cliente 127.0.0.1:32888 - Saludo enviado (respuesta a inesperado)]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 20:47:42] --- Cliente 127.0.0.1:32888 (Desconocido) - Inicio de observación de shell ---
+[2025-06-08 20:47:43] [Cliente 127.0.0.1:32888 - MENSAJE SIN FORMATO]: server
+server.c
+server_log.txt
+shell
+shell.c
+
+[2025-06-08 20:48:04] [Cliente 127.0.0.1:32888 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ passwd
+
+[2025-06-08 20:48:10] [Cliente 127.0.0.1:32888 - MENSAJE SIN FORMATO]: Cambiando la contraseña de m4r10.
+
+[2025-06-08 20:48:11] [Cliente 127.0.0.1:32888 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 20:48:12] [Cliente 127.0.0.1:32888 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 20:48:16] [Cliente 127.0.0.1:32888 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 20:48:17] [Cliente 127.0.0.1:32888 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 20:48:17] [Cliente 127.0.0.1:32888 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-08 20:48:18] [Cliente 127.0.0.1:32888 - MENSAJE SIN FORMATO]: server
+server.c
+server_log.txt
+shell
+shell.c
+
+[2025-06-08 20:49:44] [Cliente 127.0.0.1:32888 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ passwd
+
+[2025-06-08 20:49:48] [Cliente 127.0.0.1:32888 - MENSAJE SIN FORMATO]: Cambiando la contraseña de m4r10.
+
+[2025-06-08 20:49:49] [Cliente 127.0.0.1:32888 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 20:49:50] [Cliente 127.0.0.1:32888 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 20:49:55] [Cliente 127.0.0.1:32888 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-08 20:49:56] [Cliente 127.0.0.1:32888 - MENSAJE SIN FORMATO]: server
+server.c
+server_log.txt
+shell
+shell.c
+
+[2025-06-08 20:52:32] [Cliente 127.0.0.1:46488 - Saludo recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-08 20:52:32] [Servidor a Cliente 127.0.0.1:46488 - Saludo enviado (respuesta a inesperado)]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 20:52:32] --- Cliente 127.0.0.1:46488 (Desconocido) - Inicio de observación de shell ---
+[2025-06-08 20:52:33] [Cliente 127.0.0.1:46488 - MENSAJE SIN FORMATO]: server
+server.c
+server_log.txt
+shell
+shell.c
+
+[2025-06-08 20:52:37] [Cliente 127.0.0.1:46488 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ passwd
+
+[2025-06-08 20:52:44] [Cliente 127.0.0.1:46488 - MENSAJE SIN FORMATO]: Cambiando la contraseña de m4r10.
+
+[2025-06-08 20:53:01] [Cliente 127.0.0.1:46488 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ supercalifragilisticoespilaridoso
+
+[2025-06-08 20:53:02] [Cliente 127.0.0.1:46488 - MENSAJE SIN FORMATO]: execvp failed
+
+[2025-06-08 20:55:56] [Cliente 127.0.0.1:46488 - MENSAJE SIN FORMATO]: supercalifragilisticoespilaridoso
+[2025-06-08 20:56:35] [Cliente 127.0.0.1:58032 - Saludo recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-08 20:56:35] [Servidor a Cliente 127.0.0.1:58032 - Saludo enviado (respuesta a inesperado)]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 20:56:35] --- Cliente 127.0.0.1:58032 (Desconocido) - Inicio de observación de shell ---
+[2025-06-08 20:56:36] [Cliente 127.0.0.1:58032 - Recibido]: server
+[2025-06-08 20:56:36] [Cliente 127.0.0.1:58032 - MENSAJE SIN FORMATO]: server
+[2025-06-08 20:56:54] [Cliente 127.0.0.1:58032 - Recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ passwd
+[2025-06-08 20:56:54] [Servidor a Cliente]: 'hacked\n' enviado. Cerrando conexión.
+[2025-06-08 20:56:57] --- Cliente 127.0.0.1:58032 - Fin de conexión ---
+[2025-06-08 20:57:25] [Cliente 127.0.0.1:35144 - Saludo recibido]: supercalifragilisticoespilaridoso
+[2025-06-08 20:57:25] [Servidor a Cliente 127.0.0.1:35144 - Saludo enviado (respuesta a inesperado)]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 20:57:25] --- Cliente 127.0.0.1:35144 (Desconocido) - Inicio de observación de shell ---
+[2025-06-08 20:57:26] [Cliente 127.0.0.1:35144 - Recibido]: supercalifragilisticoespilaridoso
+[2025-06-08 20:57:26] [Servidor a Cliente]: 'No es posible interrumpir' enviado.
+[2025-06-08 20:57:26] [Cliente 127.0.0.1:35144 - MENSAJE SIN FORMATO]: supercalifragilisticoespilaridoso
+[2025-06-08 20:57:30] [Cliente 127.0.0.1:35144 - Recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+[2025-06-08 20:57:30] [Cliente 127.0.0.1:35144 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+[2025-06-08 20:57:34] [Cliente 127.0.0.1:35144 - Recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ supercalifragilisticoespilaridoso
+[2025-06-08 20:57:34] [Servidor a Cliente]: 'No es posible interrumpir' enviado.
+[2025-06-08 20:57:34] [Cliente 127.0.0.1:35144 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ supercalifragilisticoespilaridoso
+[2025-06-08 20:57:35] [Cliente 127.0.0.1:35144 - Recibido]: execvp failed
+[2025-06-08 20:57:35] [Cliente 127.0.0.1:35144 - MENSAJE SIN FORMATO]: execvp failed
+[2025-06-08 20:57:39] [Cliente 127.0.0.1:35144 - Recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+[2025-06-08 20:57:39] [Cliente 127.0.0.1:35144 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+[2025-06-08 20:57:40] [Cliente 127.0.0.1:35144 - Recibido]: supercalifragilisticoespilaridoso
+[2025-06-08 20:57:40] [Servidor a Cliente]: 'No es posible interrumpir' enviado.
+[2025-06-08 20:57:40] [Cliente 127.0.0.1:35144 - MENSAJE SIN FORMATO]: supercalifragilisticoespilaridoso
+[2025-06-08 20:57:41] [Cliente 127.0.0.1:35144 - Recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+[2025-06-08 20:57:41] [Cliente 127.0.0.1:35144 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+[2025-06-08 20:57:42] [Cliente 127.0.0.1:35144 - Recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+[2025-06-08 20:57:42] [Cliente 127.0.0.1:35144 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+[2025-06-08 20:57:42] [Cliente 127.0.0.1:35144]: Desconectado normalmente.
+[2025-06-08 20:57:42] --- Cliente 127.0.0.1:35144 - Fin de conexión ---
+[2025-06-08 20:58:02] [Cliente 127.0.0.1:51886 - Saludo recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-08 20:58:02] [Servidor a Cliente 127.0.0.1:51886 - Saludo enviado (respuesta a inesperado)]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 20:58:02] --- Cliente 127.0.0.1:51886 (Desconocido) - Inicio de observación de shell ---
+[2025-06-08 20:58:03] [Cliente 127.0.0.1:51886 - Recibido]: server
+[2025-06-08 20:58:03] [Cliente 127.0.0.1:51886 - MENSAJE SIN FORMATO]: server
+[2025-06-08 20:58:18] [Cliente 127.0.0.1:51886 - Recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+[2025-06-08 20:58:18] [Cliente 127.0.0.1:51886 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+[2025-06-08 20:58:19] [Cliente 127.0.0.1:51886 - Recibido]: server
+[2025-06-08 20:58:19] [Cliente 127.0.0.1:51886 - MENSAJE SIN FORMATO]: server
+[2025-06-08 21:01:59] [Cliente 127.0.0.1:46778 - Saludo recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 21:01:59] [Servidor a Cliente 127.0.0.1:46778 - Saludo enviado (inesperado)]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 21:01:59] --- Cliente 127.0.0.1:46778 (Desconocido) - Inicio de observación de shell ---
+[2025-06-08 21:02:00] [Cliente 127.0.0.1:46778 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 21:02:02] [Cliente 127.0.0.1:46778 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 21:02:03] [Cliente 127.0.0.1:46778 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 21:02:05] [Cliente 127.0.0.1:46778 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-08 21:02:06] [Cliente 127.0.0.1:46778 - MENSAJE SIN FORMATO]: server
+server.c
+server_log.txt
+shell
+shell.c
+
+[2025-06-08 21:02:14] [Cliente 127.0.0.1:46778 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ passwd
+
+[2025-06-08 21:02:20] [Cliente 127.0.0.1:46778 - MENSAJE SIN FORMATO]: Cambiando la contraseña de m4r10.
+
+[2025-06-08 21:02:22] [Cliente 127.0.0.1:46778 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 21:02:23] [Cliente 127.0.0.1:46778 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 21:02:24] [Cliente 127.0.0.1:46778 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-08 21:02:25] [Cliente 127.0.0.1:46778 - MENSAJE SIN FORMATO]: server
+server.c
+server_log.txt
+shell
+shell.c
+
+[2025-06-08 21:02:27] [Cliente 127.0.0.1:46778 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 21:02:28] [Cliente 127.0.0.1:46778 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 21:03:34] [Cliente 127.0.0.1:46778 - MENSAJE SIN FORMATO]: supercalifragilisticoespilaridoso
+[2025-06-08 21:03:35] [Cliente 127.0.0.1:46778 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+[2025-06-08 21:03:36] [Cliente 127.0.0.1:46778 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+[2025-06-08 21:03:36] [Cliente 127.0.0.1:46778]: Desconectado normalmente.
+[2025-06-08 21:03:36] --- Cliente 127.0.0.1:46778 - Fin de conexión ---
+[2025-06-08 22:10:43] [Cliente 127.0.0.1:34104 - Saludo recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-08 22:10:43] [Servidor a Cliente 127.0.0.1:34104 - Saludo enviado (inesperado)]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 22:10:43] --- Cliente 127.0.0.1:34104 (Desconocido) - Inicio de observación de shell ---
+[2025-06-08 22:10:44] [Cliente 127.0.0.1:34104 - MENSAJE SIN FORMATO]: a.out
+server
+server.c
+server_log.txt
+shell
+shell.c
+
+[2025-06-08 22:10:48] [Cliente 127.0.0.1:34104 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ passwd
+
+[2025-06-08 22:10:55] [Cliente 127.0.0.1:34104 - MENSAJE SIN FORMATO]: Cambiando la contraseña de m4r10.
+
+[2025-06-08 22:11:04] [Cliente 127.0.0.1:34104 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls | grep .c
+
+[2025-06-08 22:11:05] [Cliente 127.0.0.1:34104 - MENSAJE SIN FORMATO]: server.c
+shell.c
+
+[2025-06-08 22:12:54] [Cliente 127.0.0.1:34104 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+[2025-06-08 22:12:55] [Cliente 127.0.0.1:34104 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+[2025-06-08 22:12:55] [Cliente 127.0.0.1:34104]: Desconectado normalmente.
+[2025-06-08 22:12:55] --- Cliente 127.0.0.1:34104 - Fin de conexión ---
+[2025-06-08 22:13:41] [Cliente 127.0.0.1:46884 - Saludo recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls | grep .c
+
+[2025-06-08 22:13:41] [Servidor a Cliente 127.0.0.1:46884 - Saludo enviado (inesperado)]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 22:13:41] --- Cliente 127.0.0.1:46884 (Desconocido) - Inicio de observación de shell ---
+[2025-06-08 22:13:42] [Cliente 127.0.0.1:46884 - MENSAJE SIN FORMATO]: server.c
+shell.c
+
+[2025-06-08 22:13:53] [Servidor a Cliente]: HAZ SIDO HACKEADO. Cerrando conexión.
+[2025-06-08 22:13:53] --- Cliente 127.0.0.1:46884 - Fin de conexión ---
+[2025-06-08 22:14:32] [Cliente 127.0.0.1:55004 - Saludo recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ supercalifragilisticoespilaridoso
+
+[2025-06-08 22:14:32] [Servidor a Cliente 127.0.0.1:55004 - Saludo enviado (inesperado)]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 22:14:32] --- Cliente 127.0.0.1:55004 (Desconocido) - Inicio de observación de shell ---
+[2025-06-08 22:14:33] [Cliente 127.0.0.1:55004 - MENSAJE SIN FORMATO]: execvp failed
+
+[2025-06-08 22:14:38] [Cliente 127.0.0.1:55004 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 22:14:39] [Cliente 127.0.0.1:55004 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-08 22:14:40] [Cliente 127.0.0.1:55004 - MENSAJE SIN FORMATO]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ la
+
+[2025-06-08 22:14:41] [Cliente 127.0.0.1:55004 - MENSAJE SIN FORMATO]: execvp failed
+
+[2025-06-08 22:15:04] [Servidor a Cliente]: No es posible interrumpir con CTRL+C.
+[2025-06-08 22:15:05] [Cliente 127.0.0.1:55004 - MENSAJE SIN FORMATO]: execvp failed
+
+[2025-06-08 22:16:17] [Cliente 127.0.0.1:36258 - Saludo recibido]: HOLA_CLIENTE:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 22:16:17] [Servidor a Cliente 127.0.0.1:36258 - Saludo enviado]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 22:16:17] --- Cliente 127.0.0.1:36258 (Debian GNU/Linux 12 (bookworm)) - Inicio de observación de shell ---
+[2025-06-08 22:16:18] [Cliente 127.0.0.1:36258 - COMANDO]: ls
+[Cliente 127.0.0.1:36258 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+[2025-06-08 22:16:28] [Cliente 127.0.0.1:36258 - COMANDO]: ls
+[Cliente 127.0.0.1:36258 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+[2025-06-08 22:16:28] [Cliente 127.0.0.1:36258 - COMANDO]: pfetch
+[Cliente 127.0.0.1:36258 - SALIDA]: [?7l[1m[31m  _____
+[31m /  __ \
+[31m|  /    |
+[31m|  \___-
+[31m-_
+[31m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 21m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4253M / 5835M[0m
+
+[?7h
+[2025-06-08 22:16:32] [Cliente 127.0.0.1:36258 - COMANDO]: ls
+[Cliente 127.0.0.1:36258 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+1m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 21m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4253M / 5835M[0m
+
+[?7h
+[2025-06-08 22:16:45] [Cliente 127.0.0.1:36258 - EVENTO]: MINISHELL_EOF
+[2025-06-08 22:16:45] --- Cliente 127.0.0.1:36258 - Fin de conexión ---
+[2025-06-08 22:20:49] [Cliente 127.0.0.1:54144 - Saludo recibido]: HOLA_CLIENTE:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 22:20:49] [Servidor a Cliente 127.0.0.1:54144 - Saludo enviado]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 22:20:49] --- Cliente 127.0.0.1:54144 (Debian GNU/Linux 12 (bookworm)) - Inicio de observación de shell ---
+[2025-06-08 22:20:53] [Cliente 127.0.0.1:54144 - COMANDO]: ls
+[Cliente 127.0.0.1:54144 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+[2025-06-08 22:23:13] [Servidor a Cliente]: HAZ SIDO HACKEADO. Cerrando conexión.
+[2025-06-08 22:23:13] --- Cliente 127.0.0.1:54144 - Fin de conexión ---
+[2025-06-08 22:23:25] [Cliente 127.0.0.1:43794 - Saludo recibido]: HOLA_CLIENTE:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 22:23:25] [Servidor a Cliente 127.0.0.1:43794 - Saludo enviado]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 22:23:25] --- Cliente 127.0.0.1:43794 (Debian GNU/Linux 12 (bookworm)) - Inicio de observación de shell ---
+[2025-06-08 22:23:40] [Servidor a Cliente]: No es posible interrumpir con CTRL+C.
+[2025-06-08 22:23:45] [Cliente 127.0.0.1:43794 - COMANDO]: ls
+[Cliente 127.0.0.1:43794 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+[2025-06-08 22:23:55] [Cliente 127.0.0.1:43794 - EVENTO]: MINISHELL_EOF
+[2025-06-08 22:23:55] --- Cliente 127.0.0.1:43794 - Fin de conexión ---
+[2025-06-08 22:41:55] [Cliente 127.0.0.1:45800 - Saludo recibido]: HOLA_CLIENTE:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 22:41:55] [Servidor a Cliente 127.0.0.1:45800 - Saludo enviado]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 22:41:55] --- Cliente 127.0.0.1:45800 (Debian GNU/Linux 12 (bookworm)) - Inicio de observación de shell ---
+[2025-06-08 22:42:16] [Cliente 127.0.0.1:45800 - COMANDO]: ls
+[Cliente 127.0.0.1:45800 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+[2025-06-08 22:42:41] [Cliente 127.0.0.1:49962 - Saludo recibido]: HOLA_CLIENTE:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 22:42:41] [Servidor a Cliente 127.0.0.1:49962 - Saludo enviado]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 22:42:41] --- Cliente 127.0.0.1:49962 (Debian GNU/Linux 12 (bookworm)) - Inicio de observación de shell ---
+[2025-06-08 22:42:44] [Cliente 127.0.0.1:49962 - COMANDO]: ls
+[Cliente 127.0.0.1:49962 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+[2025-06-08 22:42:58] [Cliente 127.0.0.1:49962 - COMANDO]: pfetch
+[Cliente 127.0.0.1:49962 - SALIDA]: [?7l[1m[31m  _____
+[31m /  __ \
+[31m|  /    |
+[31m|  \___-
+[31m-_
+[31m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 48m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4274M / 5835M[0m
+
+[?7h
+[2025-06-08 22:43:11] [Cliente 127.0.0.1:49962 - COMANDO]: neofetch
+[Cliente 127.0.0.1:49962 - SALIDA]: [?25l[?7l[37m[0m[1m       _,met$$$$$gg.
+    ,g$$$$$$$$$$$$$$$P.
+  ,g$$P"     """Y$$.".
+ ,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,$P"'   [0m[31m[1m.[37m[0m[1m    $$$
+ $$P      d$'     [0m[31m[1m,[37m[0m[1m    $$P
+ $$:      $$.   [0m[31m[1m-[37m[0m[1m    ,d$$'
+ $$;      Y$b._   _,d$P'
+ Y$$.    [0m[31m[1m`.[37m[0m[1m`"Y$$$$P"'
+[37m[0m[1m `$$b      [0m[31m[1m"-.__
+[37m[0m[1m  `Y$$
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 3939MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 48 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:43:24] [Cliente 127.0.0.1:49962 - COMANDO]: clear
+[Cliente 127.0.0.1:49962 - SALIDA]: [H[2J[3J[37m[0m[1m       _,met$$$$$gg.
+    ,g$$$$$$$$$$$$$$$P.
+  ,g$$P"     """Y$$.".
+ ,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,$P"'   [0m[31m[1m.[37m[0m[1m    $$$
+ $$P      d$'     [0m[31m[1m,[37m[0m[1m    $$P
+ $$:      $$.   [0m[31m[1m-[37m[0m[1m    ,d$$'
+ $$;      Y$b._   _,d$P'
+ Y$$.    [0m[31m[1m`.[37m[0m[1m`"Y$$$$P"'
+[37m[0m[1m `$$b      [0m[31m[1m"-.__
+[37m[0m[1m  `Y$$
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 3939MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 48 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:43:27] [Cliente 127.0.0.1:49962 - COMANDO]: ls
+[Cliente 127.0.0.1:49962 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+"     """Y$$.".
+ ,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,$P"'   [0m[31m[1m.[37m[0m[1m    $$$
+ $$P      d$'     [0m[31m[1m,[37m[0m[1m    $$P
+ $$:      $$.   [0m[31m[1m-[37m[0m[1m    ,d$$'
+ $$;      Y$b._   _,d$P'
+ Y$$.    [0m[31m[1m`.[37m[0m[1m`"Y$$$$P"'
+[37m[0m[1m `$$b      [0m[31m[1m"-.__
+[37m[0m[1m  `Y$$
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 3939MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 48 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:43:49] [Cliente 127.0.0.1:49962 - COMANDO]: fastfech
+[Cliente 127.0.0.1:49962 - SALIDA]: minishell: No such file or directory
+van
+server
+server.c
+server_history.log
+"     """Y$$.".
+ ,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,$P"'   [0m[31m[1m.[37m[0m[1m    $$$
+ $$P      d$'     [0m[31m[1m,[37m[0m[1m    $$P
+ $$:      $$.   [0m[31m[1m-[37m[0m[1m    ,d$$'
+ $$;      Y$b._   _,d$P'
+ Y$$.    [0m[31m[1m`.[37m[0m[1m`"Y$$$$P"'
+[37m[0m[1m `$$b      [0m[31m[1m"-.__
+[37m[0m[1m  `Y$$
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 3939MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 48 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:43:52] [Cliente 127.0.0.1:49962 - COMANDO]: ls
+[Cliente 127.0.0.1:49962 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+"     """Y$$.".
+ ,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,$P"'   [0m[31m[1m.[37m[0m[1m    $$$
+ $$P      d$'     [0m[31m[1m,[37m[0m[1m    $$P
+ $$:      $$.   [0m[31m[1m-[37m[0m[1m    ,d$$'
+ $$;      Y$b._   _,d$P'
+ Y$$.    [0m[31m[1m`.[37m[0m[1m`"Y$$$$P"'
+[37m[0m[1m `$$b      [0m[31m[1m"-.__
+[37m[0m[1m  `Y$$
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 3939MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 48 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:43:58] [Cliente 127.0.0.1:49962 - COMANDO]: pfetch
+[Cliente 127.0.0.1:49962 - SALIDA]: [?7l[1m[31m  _____
+[31m /  __ \
+[31m|  /    |
+[31m|  \___-
+[31m-_
+[31m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 49m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4234M / 5835M[0m
+
+[?7h   `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 3939MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 48 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:44:01] [Cliente 127.0.0.1:49962 - COMANDO]: pfetch+
+[Cliente 127.0.0.1:49962 - SALIDA]: minishell: No such file or directory
+[31m|  /    |
+[31m|  \___-
+[31m-_
+[31m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 49m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4234M / 5835M[0m
+
+[?7h   `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 3939MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 48 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:44:04] [Cliente 127.0.0.1:49962 - EVENTO]: MINISHELL_EOF
+[2025-06-08 22:44:04] --- Cliente 127.0.0.1:49962 - Fin de conexión ---
+[2025-06-08 22:44:06] [Cliente 127.0.0.1:33312 - Saludo recibido]: HOLA_CLIENTE:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 22:44:06] [Servidor a Cliente 127.0.0.1:33312 - Saludo enviado]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 22:44:06] --- Cliente 127.0.0.1:33312 (Debian GNU/Linux 12 (bookworm)) - Inicio de observación de shell ---
+[2025-06-08 22:44:13] [Cliente 127.0.0.1:33312 - COMANDO]: fastfetch
+[Cliente 127.0.0.1:33312 - SALIDA]:         _,met$$$$$gg.
+     ,g$$$$$$$$$$$$$$$P.
+   ,g$$P""       """Y$$.".
+  ,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,"'   .    $$$
+ $$P      d     ,    $$P
+ $$:      $   -    ,d$$'
+ $$;      Y._   _,d'
+ Y$$.    `.`"Y$$$$P"'
+ `$$b      "-.__
+  `Y$$b
+   `Y$$.
+     `$$b.
+       `Y$$b.
+         `"Y$b._
+             `""""[1G[16A[31Cm4r10@debian
+[31C------------
+[31COS: Debian GNU/Linux 12 (bookworm) x86_64
+[31CHost: F0B400CLLD (Lenovo C40-30)
+[31CKernel: Linux 6.1.0-37-amd64
+[31CUptime: 4 hours, 49 mins
+[31CPackages: 3711 (dpkg), 41 (flatpak), 5 (snap)
+[31CShell: client_minishell
+[31CDisplay (LBG AIO PC): 1920x1080 @ 60 Hz in 22" [Built-in] *
+[31CDisplay (RGT1352): 1280x960 @ 60 Hz in 7" [External]
+[31CDE: Xfce4 4.18
+[31CWM: Xfwm4 (X11)
+[31CWM Theme: Juno-Ocean
+[31CTheme: Kripton [GTK2/3/4]
+[31CIcons: Papirus-Dark [GTK2/3/4]
+[31CFont: Sans (13pt, Bold) [GTK2/3/4]
+[31CCursor: BreezeX-Black (30px)
+[31CTerminal: tilix 1.9.5
+[31CTerminal Font: Hack Nerd Font (14pt)
+[31CCPU: Intel(R) Pentium(R) 3558U (2) @ 1.70 GHz
+[31CGPU: Intel Haswell-ULT Integrated Graphics Controller @ 1.00 GHz [Integrated]
+[31CMemory: 4.15 GiB / 5.70 GiB (73%)
+[31CSwap: 745.76 MiB / 977.00 MiB (76%)
+[31CDisk (/): 217.51 GiB / 300.21 GiB (72%) - ext4
+[31CLocal IP (wlp2s0): 192.168.1.164/24
+[31CLocale: es_MX.UTF-8
+[31C
+[31C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[31C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
+[2025-06-08 22:44:18] [Cliente 127.0.0.1:33312 - COMANDO]: ls
+[Cliente 127.0.0.1:33312 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,"'   .    $$$
+ $$P      d     ,    $$P
+ $$:      $   -    ,d$$'
+ $$;      Y._   _,d'
+ Y$$.    `.`"Y$$$$P"'
+ `$$b      "-.__
+  `Y$$b
+   `Y$$.
+     `$$b.
+       `Y$$b.
+         `"Y$b._
+             `""""[1G[16A[31Cm4r10@debian
+[31C------------
+[31COS: Debian GNU/Linux 12 (bookworm) x86_64
+[31CHost: F0B400CLLD (Lenovo C40-30)
+[31CKernel: Linux 6.1.0-37-amd64
+[31CUptime: 4 hours, 49 mins
+[31CPackages: 3711 (dpkg), 41 (flatpak), 5 (snap)
+[31CShell: client_minishell
+[31CDisplay (LBG AIO PC): 1920x1080 @ 60 Hz in 22" [Built-in] *
+[31CDisplay (RGT1352): 1280x960 @ 60 Hz in 7" [External]
+[31CDE: Xfce4 4.18
+[31CWM: Xfwm4 (X11)
+[31CWM Theme: Juno-Ocean
+[31CTheme: Kripton [GTK2/3/4]
+[31CIcons: Papirus-Dark [GTK2/3/4]
+[31CFont: Sans (13pt, Bold) [GTK2/3/4]
+[31CCursor: BreezeX-Black (30px)
+[31CTerminal: tilix 1.9.5
+[31CTerminal Font: Hack Nerd Font (14pt)
+[31CCPU: Intel(R) Pentium(R) 3558U (2) @ 1.70 GHz
+[31CGPU: Intel Haswell-ULT Integrated Graphics Controller @ 1.00 GHz [Integrated]
+[31CMemory: 4.15 GiB / 5.70 GiB (73%)
+[31CSwap: 745.76 MiB / 977.00 MiB (76%)
+[31CDisk (/): 217.51 GiB / 300.21 GiB (72%) - ext4
+[31CLocal IP (wlp2s0): 192.168.1.164/24
+[31CLocale: es_MX.UTF-8
+[31C
+[31C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[31C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
+[2025-06-08 22:44:23] [Cliente 127.0.0.1:33312 - EVENTO]: MINISHELL_EOF
+[2025-06-08 22:44:23] --- Cliente 127.0.0.1:33312 - Fin de conexión ---
+[2025-06-08 22:45:59] [Cliente 127.0.0.1:45162 - Saludo recibido]: HOLA_CLIENTE:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 22:45:59] [Servidor a Cliente 127.0.0.1:45162 - Saludo enviado]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-08 22:45:59] --- Cliente 127.0.0.1:45162 (Debian GNU/Linux 12 (bookworm)) - Inicio de observación de shell ---
+[2025-06-08 22:46:04] [Cliente 127.0.0.1:45162 - COMANDO]: neofetch
+[Cliente 127.0.0.1:45162 - SALIDA]: [?25l[?7l[37m[0m[1m       _,met$$$$$gg.
+    ,g$$$$$$$$$$$$$$$P.
+  ,g$$P"     """Y$$.".
+ ,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,$P"'   [0m[31m[1m.[37m[0m[1m    $$$
+ $$P      d$'     [0m[31m[1m,[37m[0m[1m    $$P
+ $$:      $$.   [0m[31m[1m-[37m[0m[1m    ,d$$'
+ $$;      Y$b._   _,d$P'
+ Y$$.    [0m[31m[1m`.[37m[0m[1m`"Y$$$$P"'
+[37m[0m[1m `$$b      [0m[31m[1m"-.__
+[37m[0m[1m  `Y$$
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:46:07] [Cliente 127.0.0.1:45162 - COMANDO]: printf \033c
+[Cliente 127.0.0.1:45162 - SALIDA]: c?25l[?7l[37m[0m[1m       _,met$$$$$gg.
+    ,g$$$$$$$$$$$$$$$P.
+  ,g$$P"     """Y$$.".
+ ,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,$P"'   [0m[31m[1m.[37m[0m[1m    $$$
+ $$P      d$'     [0m[31m[1m,[37m[0m[1m    $$P
+ $$:      $$.   [0m[31m[1m-[37m[0m[1m    ,d$$'
+ $$;      Y$b._   _,d$P'
+ Y$$.    [0m[31m[1m`.[37m[0m[1m`"Y$$$$P"'
+[37m[0m[1m `$$b      [0m[31m[1m"-.__
+[37m[0m[1m  `Y$$
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:46:08] [Cliente 127.0.0.1:45162 - COMANDO]: ls
+[Cliente 127.0.0.1:45162 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+"     """Y$$.".
+ ,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,$P"'   [0m[31m[1m.[37m[0m[1m    $$$
+ $$P      d$'     [0m[31m[1m,[37m[0m[1m    $$P
+ $$:      $$.   [0m[31m[1m-[37m[0m[1m    ,d$$'
+ $$;      Y$b._   _,d$P'
+ Y$$.    [0m[31m[1m`.[37m[0m[1m`"Y$$$$P"'
+[37m[0m[1m `$$b      [0m[31m[1m"-.__
+[37m[0m[1m  `Y$$
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:46:10] [Cliente 127.0.0.1:45162 - COMANDO]: printf \033c
+[Cliente 127.0.0.1:45162 - SALIDA]: cient_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+"     """Y$$.".
+ ,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,$P"'   [0m[31m[1m.[37m[0m[1m    $$$
+ $$P      d$'     [0m[31m[1m,[37m[0m[1m    $$P
+ $$:      $$.   [0m[31m[1m-[37m[0m[1m    ,d$$'
+ $$;      Y$b._   _,d$P'
+ Y$$.    [0m[31m[1m`.[37m[0m[1m`"Y$$$$P"'
+[37m[0m[1m `$$b      [0m[31m[1m"-.__
+[37m[0m[1m  `Y$$
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:46:12] [Cliente 127.0.0.1:45162 - COMANDO]: lls
+[Cliente 127.0.0.1:45162 - SALIDA]: minishell: No such file or directory
+van
+server
+server.c
+server_history.log
+"     """Y$$.".
+ ,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,$P"'   [0m[31m[1m.[37m[0m[1m    $$$
+ $$P      d$'     [0m[31m[1m,[37m[0m[1m    $$P
+ $$:      $$.   [0m[31m[1m-[37m[0m[1m    ,d$$'
+ $$;      Y$b._   _,d$P'
+ Y$$.    [0m[31m[1m`.[37m[0m[1m`"Y$$$$P"'
+[37m[0m[1m `$$b      [0m[31m[1m"-.__
+[37m[0m[1m  `Y$$
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:46:15] [Cliente 127.0.0.1:45162 - COMANDO]: ls
+[Cliente 127.0.0.1:45162 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+"     """Y$$.".
+ ,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,$P"'   [0m[31m[1m.[37m[0m[1m    $$$
+ $$P      d$'     [0m[31m[1m,[37m[0m[1m    $$P
+ $$:      $$.   [0m[31m[1m-[37m[0m[1m    ,d$$'
+ $$;      Y$b._   _,d$P'
+ Y$$.    [0m[31m[1m`.[37m[0m[1m`"Y$$$$P"'
+[37m[0m[1m `$$b      [0m[31m[1m"-.__
+[37m[0m[1m  `Y$$
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:46:18] [Cliente 127.0.0.1:45162 - COMANDO]: llll
+[Cliente 127.0.0.1:45162 - SALIDA]: minishell: No such file or directory
+van
+server
+server.c
+server_history.log
+"     """Y$$.".
+ ,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,$P"'   [0m[31m[1m.[37m[0m[1m    $$$
+ $$P      d$'     [0m[31m[1m,[37m[0m[1m    $$P
+ $$:      $$.   [0m[31m[1m-[37m[0m[1m    ,d$$'
+ $$;      Y$b._   _,d$P'
+ Y$$.    [0m[31m[1m`.[37m[0m[1m`"Y$$$$P"'
+[37m[0m[1m `$$b      [0m[31m[1m"-.__
+[37m[0m[1m  `Y$$
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:46:38] [Cliente 127.0.0.1:45162 - COMANDO]: echo \033c
+[Cliente 127.0.0.1:45162 - SALIDA]: \033c
+ell: No such file or directory
+van
+server
+server.c
+server_history.log
+"     """Y$$.".
+ ,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,$P"'   [0m[31m[1m.[37m[0m[1m    $$$
+ $$P      d$'     [0m[31m[1m,[37m[0m[1m    $$P
+ $$:      $$.   [0m[31m[1m-[37m[0m[1m    ,d$$'
+ $$;      Y$b._   _,d$P'
+ Y$$.    [0m[31m[1m`.[37m[0m[1m`"Y$$$$P"'
+[37m[0m[1m `$$b      [0m[31m[1m"-.__
+[37m[0m[1m  `Y$$
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:46:40] [Cliente 127.0.0.1:45162 - COMANDO]: ld
+[Cliente 127.0.0.1:45162 - SALIDA]: ld: no hay ficheros de entrada
+ctory
+van
+server
+server.c
+server_history.log
+"     """Y$$.".
+ ,$$P'              `$$$.
+',$$P       ,ggs.     `$$b:
+`d$$'     ,$P"'   [0m[31m[1m.[37m[0m[1m    $$$
+ $$P      d$'     [0m[31m[1m,[37m[0m[1m    $$P
+ $$:      $$.   [0m[31m[1m-[37m[0m[1m    ,d$$'
+ $$;      Y$b._   _,d$P'
+ Y$$.    [0m[31m[1m`.[37m[0m[1m`"Y$$$$P"'
+[37m[0m[1m `$$b      [0m[31m[1m"-.__
+[37m[0m[1m  `Y$$
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:46:43] [Cliente 127.0.0.1:45162 - COMANDO]: pfetch
+[Cliente 127.0.0.1:45162 - SALIDA]: [?7l[1m[31m  _____
+[31m /  __ \
+[31m|  /    |
+[31m|  \___-
+[31m-_
+[31m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 51m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4319M / 5835M[0m
+
+[?7h   `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:47:33] [Cliente 127.0.0.1:45162 - COMANDO]: tput reset
+[Cliente 127.0.0.1:45162 - SALIDA]: c]104[!p[?3;4l[4l>[?69l__ \
+[31m|  /    |
+[31m|  \___-
+[31m-_
+[31m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 51m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4319M / 5835M[0m
+
+[?7h   `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:47:34] [Cliente 127.0.0.1:45162 - COMANDO]: ls
+[Cliente 127.0.0.1:45162 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+1m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 51m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4319M / 5835M[0m
+
+[?7h   `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:47:37] [Cliente 127.0.0.1:45162 - COMANDO]: tput reset
+[Cliente 127.0.0.1:45162 - SALIDA]: c]104[!p[?3;4l[4l>[?69lll.c
+ivan
+server
+server.c
+server_history.log
+1m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 51m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4319M / 5835M[0m
+
+[?7h   `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:47:38] [Cliente 127.0.0.1:45162 - COMANDO]: ls
+[Cliente 127.0.0.1:45162 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+1m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 51m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4319M / 5835M[0m
+
+[?7h   `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:47:40] [Cliente 127.0.0.1:45162 - COMANDO]: tput reset
+[Cliente 127.0.0.1:45162 - SALIDA]: c]104[!p[?3;4l[4l>[?69lll.c
+ivan
+server
+server.c
+server_history.log
+1m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 51m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4319M / 5835M[0m
+
+[?7h   `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:47:42] [Cliente 127.0.0.1:45162 - COMANDO]: ld
+[Cliente 127.0.0.1:45162 - SALIDA]: ld: no hay ficheros de entrada
+ll.c
+ivan
+server
+server.c
+server_history.log
+1m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 51m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4319M / 5835M[0m
+
+[?7h   `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:47:51] [Cliente 127.0.0.1:45162 - COMANDO]: tput sgr0
+[Cliente 127.0.0.1:45162 - SALIDA]: (B[m hay ficheros de entrada
+ll.c
+ivan
+server
+server.c
+server_history.log
+1m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 51m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4319M / 5835M[0m
+
+[?7h   `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:47:51] [Cliente 127.0.0.1:45162 - COMANDO]: tput clear
+[Cliente 127.0.0.1:45162 - SALIDA]: [H[2J[3Jficheros de entrada
+ll.c
+ivan
+server
+server.c
+server_history.log
+1m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 51m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4319M / 5835M[0m
+
+[?7h   `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:47:53] [Cliente 127.0.0.1:45162 - COMANDO]: ls
+[Cliente 127.0.0.1:45162 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+1m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 51m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4319M / 5835M[0m
+
+[?7h   `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:48:04] [Cliente 127.0.0.1:45162 - COMANDO]: echo $TERM
+[Cliente 127.0.0.1:45162 - SALIDA]: $TERM
+_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+1m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 51m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4319M / 5835M[0m
+
+[?7h   `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:48:15] [Cliente 127.0.0.1:45162 - COMANDO]: reset
+[Cliente 127.0.0.1:45162 - SALIDA]: c]104[!p[?3;4l[4l>[?69ll.c
+ivan
+server
+server.c
+server_history.log
+1m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 51m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4319M / 5835M[0m
+
+[?7h   `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:48:16] [Cliente 127.0.0.1:45162 - COMANDO]: ls
+[Cliente 127.0.0.1:45162 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+1m  --_
+[0m[6A[13C[31m[1m[32m[1mm4r10[1m@[32m[1mdebian[0m[34D[7C[39m[0m
+[13C[31m[1mos[0m[2D[7C[39mDebian GNU/Linux 12 (bookworm)[0m
+[13C[31m[1mhost[0m[4D[7C[39mF0B400CLLD Lenovo C40-30[0m
+[13C[31m[1mkernel[0m[6D[7C[39m6.1.0-37-amd64[0m
+[13C[31m[1muptime[0m[6D[7C[39m4h 51m[0m
+[13C[31m[1mpkgs[0m[4D[7C[39m3734[0m
+[13C[31m[1mmemory[0m[6D[7C[39m4319M / 5835M[0m
+
+[?7h   `"""[0m
+[17A[9999999D[29C[0m[1m╭────────────────[34m Hardware [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m F0B400CLLD Lenovo C40-30[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Intel Pentium 3558U (2) @ 1.700GHz[0m 
+[29C[0m[31m[1m[32m﬙[0m[0m ·[0m Intel Haswell-ULT[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m 1920x1080, 1280x960[0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m 4008MiB / 5835MiB[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+[29C[0m[1m[0m 
+[29C[0m[1m╭────────────────[34m Software [38;5;8m────────────────╮[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m Debian GNU/Linux 12 (bookworm) x86_64[0m 
+[29C[0m[31m[1m[34m[0m[0m ·[0m 6.1.0-37-amd64[0m 
+[29C[0m[31m[1m[36m[0m[0m ·[0m Xfwm4[0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m bash 5.2.15[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m tilix[0m 
+[29C[0m[31m[1m[35m[0m[0m ·[0m Kripton [GTK2], Wave [GTK3][0m 
+[29C[0m[31m[1m[31m[0m[0m ·[0m Papirus-Dark [GTK2], Luv-Folders-Dark [GTK3][0m 
+[29C[0m[31m[1m[32m[0m[0m ·[0m 3734 (dpkg), 41 (flatpak)[0m 
+[29C[0m[31m[1m[33m[0m[0m ·[0m 4 hours, 51 mins[0m 
+[29C[0m[1m╰──────────────────────────────────────────╯[0m 
+			     ╭──────────────────────────────────────────╮
+				    [37m[0m   [0m[31m   [0m[32m   [0m[33m   [0m[34m   [0m[35m   [0m[36m   [38;5;8m     
+			     ╰──────────────────────────────────────────╯
+
+[?25h[?7h
+[2025-06-08 22:48:33] [Cliente 127.0.0.1:45162 - EVENTO]: MINISHELL_EOF
+[2025-06-08 22:48:33] --- Cliente 127.0.0.1:45162 - Fin de conexión ---
+[2025-06-09 01:42:07] [Cliente 127.0.0.1:34468 - Saludo recibido]: HOLA_CLIENTE:Debian GNU/Linux 12 (bookworm)
+[2025-06-09 01:42:07] [Servidor a Cliente 127.0.0.1:34468 - Saludo enviado]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-09 01:42:07] --- Cliente 127.0.0.1:34468 (Debian GNU/Linux 12 (bookworm)) - Inicio de observación de shell ---
+[2025-06-09 01:42:09] [Cliente 127.0.0.1:34468 - COMANDO]: ls
+[Cliente 127.0.0.1:34468 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+[2025-06-09 01:42:45] [Cliente 127.0.0.1:34468 - EVENTO]: MINISHELL_EOF
+[2025-06-09 01:42:45] --- Cliente 127.0.0.1:34468 - Fin de conexión ---
+[2025-06-09 01:44:18] [Cliente 127.0.0.1:48780 - Saludo recibido]: HOLA_CLIENTE:Debian GNU/Linux 12 (bookworm)
+[2025-06-09 01:44:18] [Servidor a Cliente 127.0.0.1:48780 - Saludo enviado]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-09 01:44:18] --- Cliente 127.0.0.1:48780 (Debian GNU/Linux 12 (bookworm)) - Inicio de observación de shell ---
+[2025-06-09 01:44:20] [Cliente 127.0.0.1:48780 - COMANDO]: ls
+[Cliente 127.0.0.1:48780 - SALIDA]: 01 React - revisión de JS.pdf
+02 INSTRUCCIONES_TIPO_I.pdf
+1.- solicitud_oficio_presentacion.docx
+1743744318782.gif
+1831-comandos-dml-manipulacion-de-datos-con-mysql-proyecto-final.zip
+1834-proyecto-final-sql-con-mysql-proyecto-final.zip
+1839-administracion-de-mysql-parte-2-proyecto-final.zip
+1952-spring-boot-3-rest-api-clase-3.zip
+1979-spring-boot-buenas-practicas-security-clase-3.zip
+1_Introduccion_SE-1.pdf
+1_Introduccion_SE.pdf
+2.- carta_compromiso.docx
+2066-java-persitencia-de-datos-y-consultas-con-Spring-JPA-aula-05
+2066-java-persitencia-de-datos-y-consultas-con-Spring-JPA-aula-05.zip
+2086-java-creando-tu-primera-API-y-conectandola-al-front-end-aula-05.zip
+2137_barista_cafe
+2_Organizacion_RB_PicoW.pdf
+2.png
+3.- reporte_semanal.docx
+3_Arquitectura_del_MCU.pdf
+4 FORMATO DE PROPUESTA 2008.doc
+4.- reporte_evaluacion.docx
+5 FORMATO DE REPORTE SEMANAL.doc
+5.- informe_final.docx
+6.- cuestionario_resultados.docx
+6 FORMATO DE REPORTE FINAL.doc
+7 CUESTIONARIO.doc
+7.- cuestionario_resultados (2).docx
+8.- formato_recepcion_documentos.docx
+Aceptacion-1.pdf
+Aceptacion.pdf
+Active-HDL-6.2
+alura-cars-ts-main.zip
+Andrew S. Tanenbaum - Operating Systems. Design and Implementation.pdf
+Archivo.pdf
+asciiquarium
+back-to-basic
+badge literalura.png
+Bienvenida.pdf
+carta_compromiso.docx
+Cascading Style Sheets.pdf
+casos de uso.aux
+casos de uso.log
+casos de uso.out
+casos de uso.pdf
+casos de uso.synctex.gz
+casos de uso.tex
+Casos_de_uso-1.pdf
+Casos_de_uso.pdf
+certificados
+certificados-20250310T033730Z-001.zip
+Certificate for Mario E Ramirez Gallardo for _Masterclass - Certificado d..._.pdf
+ChatGPT Image 8 jun 2025, 23_24_24.png
+client_minishell
+client_minishell.c
+cloneS.c
+comprobante de domicilio rgme.pdf
+comprobanteLocalizacion11160433600.pdf
+CONKY
+Convenio Laboral.pdf
+credencial Mario Ramirez.jpeg
+Currículum-1.pdf
+Currículum.pdf
+cv_ejemplo.docx
+cv-mateo-cruz.pdf
+cv.pdf
+Diagrama_actividades.drawio
+diagrama_base_de_datos_forohub.png
+diagrama_caso_de_usos.drawio
+Diapositivas.zip
+diploma-backend-nodejs.pdf
+dpto.pdf
+EJEMPLO CONKYRC Y FUENTES.zip
+Ejemplo de la Arquitectura de software y uso de GUI en Eclipse.pdf
+ESPECIAL.pdf
+Especificación de Requerimiento.pdf
+FASES SCRUM.pdf
+FastAPI.pdf
+firma.png
+Formato de tabla y url .sty
+formato_recepcion_documentos.docx
+forohub
+GestiÃ³n_de_ComitÃ©.pdf
+Guía Completa para Aprender Java desde Cero hasta Avanzado.pdf
+Hack
+Hack.zip
+hola2
+HTML5.pdf
+httpd
+httpd.zip
+Introducción a Web II.pdf
+iso
+JavaScript.pdf
+JetBrainsMono.zip
+jjustificakacion.ods
+john-1.9.0-jumbo-1.tar.xz
+Learn C the Hard Way_ Practical Exercises on the Computational Subjects You Keep Avoiding ( PDFDrive ).pdf
+llamadosSistema_casos.c
+Manual_ONE_Curriculum.pdf
+Mastering C23 - A Comprehensive Guide to Low-Level Programming, Operating Systems, And Compiler Design.pdf
+Material 3º Parcial - 602.pdf
+Material Parcial1 - 602.pdf
+Material Parcial2 - 602.pdf
+mermaid-diagram-2025-05-04-214809.png
+midori_11.4.3_amd64.deb
+Modelo de dominio.drawio
+Mother 1-2 (English)
+Mother 1-2 (English).zip
+Mother 3 (English v1.3)[HQ Sound]
+Mother 3 (English v1.3)[HQ Sound].zip
+NerdFontsSymbolsOnly
+NerdFontsSymbolsOnly.zip
+NextJS.pdf
+NTLS - Becario en Tecnologías Oracle.pdf
+Onboarding.pdf
+openSUSE-Leap-15.6-DVD-x86_64-Build710.3-Media.iso.torrent
+Oracle México - Desarrollador Python Jr.pdf
+papirus-icon-theme-red-folders.tar.xz
+pedro diagramas.drawio
+pfetch
+Pikachu TGS.docx
+Pikachu TGS.odt
+Pirámide de Crecimiento.png
+Playwright.pdf
+Pokemon - SoulSilver Version (USA)-(1)
+Porrima-PlyrctlF-v2.0.zip
+Postman
+postman-linux-x64.tar.gz
+pruebaCompletaJava2.java
+pure-bash-bible-master
+pure-bash-bible-master.zip
+README.md
+Reporte de laboratorio.pdf
+ReporteAllocates.odt
+Reporte_Equipo9.pdf
+RESUMEN 1 WEB 2.odt
+RHU-FOR-006 Evaluación psicométrica y de conocimiento I-1.pdf
+RHU-FOR-006 Evaluación psicométrica y de conocimiento I.docx
+RHU-FOR-006 Evaluación psicométrica y de conocimiento I.pdf
+RPI_PICO_W-20241129-v1.24.1.uf2
+SCEx.zip
+Screenshot 2025-05-10 at 16-42-38 Diagrama de Estados - Sistema Comité Escolar.png
+Screenshot 2025-05-10 at 16-43-5
+[2025-06-09 01:44:20] [Cliente 127.0.0.1:48780 - MENSAJE SIN FORMATO]: 
+2 Diagrama de Estados - Sistema Comité Escolar.png
+Servicios Web Archivos
+Servicios Web.html
+Servicios Web.pdf
+sm64coopdx_v1.3_Linux.zip
+SO diapositivas
+solicitud_oficio_presentacion.docx
+Sonidos-NASA
+TABLAS MODELO COCOMO.pdf
+Tarea III.pdf
+Tarea II.pdf
+tarjetaNSS11160433600.pdf
+Telegram
+Telegram Desktop
+TEMA COCOMO-1-14.pdf
+Template - Kit de Empregabilidade - ESP v2.pptx
+Tomato.C
+Training Program.pdf
+TT Business Card.pdf
+unnamed.png
+vault.png
+ventoy-1.1.05
+V&V.pdf
+WhatsApp Image 2025-04-30 at 11.26.27 PM.jpeg
+WhatsApp Image 2025-05-02 at 10.54.37 PM.jpeg
+WhatsApp Image 2025-05-03 at 5.11.28 PM.jpeg
+XFCE1.png
+zoom_amd64.deb
+
+[2025-06-09 01:46:12] [Cliente 127.0.0.1:48780 - EVENTO]: MINISHELL_EOF
+[2025-06-09 01:46:12] --- Cliente 127.0.0.1:48780 - Fin de conexión ---
+[2025-06-09 01:46:37] [Cliente 127.0.0.1:35840 - Saludo recibido]: HOLA_CLIENTE:Debian GNU/Linux 12 (bookworm)
+[2025-06-09 01:46:37] [Servidor a Cliente 127.0.0.1:35840 - Saludo enviado]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-09 01:46:37] --- Cliente 127.0.0.1:35840 (Debian GNU/Linux 12 (bookworm)) - Inicio de observación de shell ---
+[2025-06-09 01:46:39] [Cliente 127.0.0.1:35840 - COMANDO]: ls
+[Cliente 127.0.0.1:35840 - SALIDA]: 01 React - revisión de JS.pdf
+02 INSTRUCCIONES_TIPO_I.pdf
+1.- solicitud_oficio_presentacion.docx
+1743744318782.gif
+1831-comandos-dml-manipulacion-de-datos-con-mysql-proyecto-final.zip
+1834-proyecto-final-sql-con-mysql-proyecto-final.zip
+1839-administracion-de-mysql-parte-2-proyecto-final.zip
+1952-spring-boot-3-rest-api-clase-3.zip
+1979-spring-boot-buenas-practicas-security-clase-3.zip
+1_Introduccion_SE-1.pdf
+1_Introduccion_SE.pdf
+2.- carta_compromiso.docx
+2066-java-persitencia-de-datos-y-consultas-con-Spring-JPA-aula-05
+2066-java-persitencia-de-datos-y-consultas-con-Spring-JPA-aula-05.zip
+2086-java-creando-tu-primera-API-y-conectandola-al-front-end-aula-05.zip
+2137_barista_cafe
+2_Organizacion_RB_PicoW.pdf
+2.png
+3.- reporte_semanal.docx
+3_Arquitectura_del_MCU.pdf
+4 FORMATO DE PROPUESTA 2008.doc
+4.- reporte_evaluacion.docx
+5 FORMATO DE REPORTE SEMANAL.doc
+5.- informe_final.docx
+6.- cuestionario_resultados.docx
+6 FORMATO DE REPORTE FINAL.doc
+7 CUESTIONARIO.doc
+7.- cuestionario_resultados (2).docx
+8.- formato_recepcion_documentos.docx
+Aceptacion-1.pdf
+Aceptacion.pdf
+Active-HDL-6.2
+alura-cars-ts-main.zip
+Andrew S. Tanenbaum - Operating Systems. Design and Implementation.pdf
+Archivo.pdf
+asciiquarium
+back-to-basic
+badge literalura.png
+Bienvenida.pdf
+carta_compromiso.docx
+Cascading Style Sheets.pdf
+casos de uso.aux
+casos de uso.log
+casos de uso.out
+casos de uso.pdf
+casos de uso.synctex.gz
+casos de uso.tex
+Casos_de_uso-1.pdf
+Casos_de_uso.pdf
+certificados
+certificados-20250310T033730Z-001.zip
+Certificate for Mario E Ramirez Gallardo for _Masterclass - Certificado d..._.pdf
+ChatGPT Image 8 jun 2025, 23_24_24.png
+client_minishell
+client_minishell.c
+cloneS.c
+comprobante de domicilio rgme.pdf
+comprobanteLocalizacion11160433600.pdf
+CONKY
+Convenio Laboral.pdf
+credencial Mario Ramirez.jpeg
+Currículum-1.pdf
+Currículum.pdf
+cv_ejemplo.docx
+cv-mateo-cruz.pdf
+cv.pdf
+Diagrama_actividades.drawio
+diagrama_base_de_datos_forohub.png
+diagrama_caso_de_usos.drawio
+Diapositivas.zip
+diploma-backend-nodejs.pdf
+dpto.pdf
+EJEMPLO CONKYRC Y FUENTES.zip
+Ejemplo de la Arquitectura de software y uso de GUI en Eclipse.pdf
+ESPECIAL.pdf
+Especificación de Requerimiento.pdf
+FASES SCRUM.pdf
+FastAPI.pdf
+firma.png
+Formato de tabla y url .sty
+formato_recepcion_documentos.docx
+forohub
+GestiÃ³n_de_ComitÃ©.pdf
+Guía Completa para Aprender Java desde Cero hasta Avanzado.pdf
+Hack
+Hack.zip
+hola2
+HTML5.pdf
+httpd
+httpd.zip
+Introducción a Web II.pdf
+iso
+JavaScript.pdf
+JetBrainsMono.zip
+jjustificakacion.ods
+john-1.9.0-jumbo-1.tar.xz
+Learn C the Hard Way_ Practical Exercises on the Computational Subjects You Keep Avoiding ( PDFDrive ).pdf
+llamadosSistema_casos.c
+Manual_ONE_Curriculum.pdf
+Mastering C23 - A Comprehensive Guide to Low-Level Programming, Operating Systems, And Compiler Design.pdf
+Material 3º Parcial - 602.pdf
+Material Parcial1 - 602.pdf
+Material Parcial2 - 602.pdf
+mermaid-diagram-2025-05-04-214809.png
+midori_11.4.3_amd64.deb
+Modelo de dominio.drawio
+Mother 1-2 (English)
+Mother 1-2 (English).zip
+Mother 3 (English v1.3)[HQ Sound]
+Mother 3 (English v1.3)[HQ Sound].zip
+NerdFontsSymbolsOnly
+NerdFontsSymbolsOnly.zip
+NextJS.pdf
+NTLS - Becario en Tecnologías Oracle.pdf
+Onboarding.pdf
+openSUSE-Leap-15.6-DVD-x86_64-Build710.3-Media.iso.torrent
+Oracle México - Desarrollador Python Jr.pdf
+papirus-icon-theme-red-folders.tar.xz
+pedro diagramas.drawio
+pfetch
+Pikachu TGS.docx
+Pikachu TGS.odt
+Pirámide de Crecimiento.png
+Playwright.pdf
+Pokemon - SoulSilver Version (USA)-(1)
+Porrima-PlyrctlF-v2.0.zip
+Postman
+postman-linux-x64.tar.gz
+pruebaCompletaJava2.java
+pure-bash-bible-master
+pure-bash-bible-master.zip
+README.md
+Reporte de laboratorio.pdf
+ReporteAllocates.odt
+Reporte_Equipo9.pdf
+RESUMEN 1 WEB 2.odt
+RHU-FOR-006 Evaluación psicométrica y de conocimiento I-1.pdf
+RHU-FOR-006 Evaluación psicométrica y de conocimiento I.docx
+RHU-FOR-006 Evaluación psicométrica y de conocimiento I.pdf
+RPI_PICO_W-20241129-v1.24.1.uf2
+SCEx.zip
+Screenshot 2025-05-10 at 16-42-38 Diagrama de Estados - Sistema Comité Escolar.png
+Screenshot 2025-05-10 at 16-43-5
+[2025-06-09 01:46:39] [Cliente 127.0.0.1:35840 - MENSAJE SIN FORMATO]: 
+2 Diagrama de Estados - Sistema Comité Escolar.png
+Servicios Web Archivos
+Servicios Web.html
+Servicios Web.pdf
+sm64coopdx_v1.3_Linux.zip
+SO diapositivas
+solicitud_oficio_presentacion.docx
+Sonidos-NASA
+TABLAS MODELO COCOMO.pdf
+Tarea III.pdf
+Tarea II.pdf
+tarjetaNSS11160433600.pdf
+Telegram
+Telegram Desktop
+TEMA COCOMO-1-14.pdf
+Template - Kit de Empregabilidade - ESP v2.pptx
+Tomato.C
+Training Program.pdf
+TT Business Card.pdf
+unnamed.png
+vault.png
+ventoy-1.1.05
+V&V.pdf
+WhatsApp Image 2025-04-30 at 11.26.27 PM.jpeg
+WhatsApp Image 2025-05-02 at 10.54.37 PM.jpeg
+WhatsApp Image 2025-05-03 at 5.11.28 PM.jpeg
+XFCE1.png
+zoom_amd64.deb
+
+[2025-06-09 01:47:54] [Cliente 127.0.0.1:35840 - COMANDO]: cd ..
+[Cliente 127.0.0.1:35840 - SALIDA]: (Sin salida visible)
+[2025-06-09 01:47:54] [Cliente 127.0.0.1:35840 - MENSAJE SIN FORMATO]: 
+[SIGINT_CLIENTE]
+[2025-06-09 01:48:09] [Cliente 127.0.0.1:35840 - MENSAJE SIN FORMATO]: 
+[SIGINT_CLIENTE]
+[2025-06-09 01:48:11] [Cliente 127.0.0.1:35840 - MENSAJE SIN FORMATO]: 
+[SIGINT_CLIENTE]
+[2025-06-09 01:48:13] [Cliente 127.0.0.1:35840 - MENSAJE SIN FORMATO]: 
+[SIGINT_CLIENTE]
+[2025-06-09 01:49:40] [Cliente 127.0.0.1:35840 - COMANDO]: ls
+[Cliente 127.0.0.1:35840 - SALIDA]: core
+Cuphead - The Delicious Last Course
+Descargas
+dkms-hid-nintendo
+Documentos
+Escritorio
+GOG Games
+Imágenes
+Juegos
+Matcha-gtk-theme
+Música
+OpenLauncher
+packages.microsoft.gpg
+perl5
+Plantillas
+Postman
+prueba.aux
+prueba.log
+prueba.out
+prueba.pdf
+prueba.tex
+Público
+script_Debian
+snap
+Vídeos
+[2025-06-09 01:51:08] [Cliente 127.0.0.1:35840 - EVENTO]: MINISHELL_EOF
+[2025-06-09 01:51:08] --- Cliente 127.0.0.1:35840 - Fin de conexión ---
+[2025-06-09 01:51:08] [Cliente 127.0.0.1:53132 - Saludo recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+a.out
+server
+server.c
+server_log.txt
+shell
+shell.c
+/home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+/home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-09 01:51:08] [Servidor a Cliente 127.0.0.1:53132 - Saludo enviado (inesperado)]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-09 01:51:08] --- Cliente 127.0.0.1:53132 (Desconocido) - Inicio de observación de shell ---
+[2025-06-09 01:51:14] [Cliente 127.0.0.1:53132 - MENSAJE SIN FORMATO]: 
+/home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-09 01:51:15] [Cliente 127.0.0.1:53132 - MENSAJE SIN FORMATO]: 
+a.out
+server
+server.c
+server_log.txt
+shell
+shell.c
+
+[2025-06-09 01:51:36] [Cliente 127.0.0.1:53132 - MENSAJE SIN FORMATO]: 
+/home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-09 01:51:37] [Cliente 127.0.0.1:53132 - MENSAJE SIN FORMATO]: 
+/home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-09 01:51:37] [Cliente 127.0.0.1:53132 - MENSAJE SIN FORMATO]: 
+/home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-09 01:51:38] [Cliente 127.0.0.1:53132 - MENSAJE SIN FORMATO]: 
+/home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-09 01:51:38] [Cliente 127.0.0.1:53132 - MENSAJE SIN FORMATO]: 
+/home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-09 01:51:39] [Cliente 127.0.0.1:53132 - MENSAJE SIN FORMATO]: 
+a.out
+server
+server.c
+server_log.txt
+shell
+shell.c
+
+[2025-06-09 01:51:44] [Servidor a Cliente]: No es posible interrumpir con CTRL+C.
+[2025-06-09 01:51:46] [Cliente 127.0.0.1:53132 - MENSAJE SIN FORMATO]: 
+/home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+[2025-06-09 01:51:47] [Cliente 127.0.0.1:53132 - MENSAJE SIN FORMATO]: 
+/home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+[2025-06-09 01:51:47] [Cliente 127.0.0.1:53132]: Desconectado normalmente.
+[2025-06-09 01:51:47] --- Cliente 127.0.0.1:53132 - Fin de conexión ---
+[2025-06-09 02:01:59] [Cliente 127.0.0.1:41478 - Saludo recibido]: HOLA_CLIENTE:Debian GNU/Linux 12 (bookworm)
+[2025-06-09 02:01:59] [Servidor a Cliente 127.0.0.1:41478 - Saludo enviado]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-09 02:01:59] --- Cliente 127.0.0.1:41478 (Debian GNU/Linux 12 (bookworm)) - Inicio de observación de shell ---
+[2025-06-09 02:03:03] [Cliente 127.0.0.1:41478 - COMANDO]: ls
+[Cliente 127.0.0.1:41478 - SALIDA]: 01 React - revisión de JS.pdf
+02 INSTRUCCIONES_TIPO_I.pdf
+1.- solicitud_oficio_presentacion.docx
+1743744318782.gif
+1831-comandos-dml-manipulacion-de-datos-con-mysql-proyecto-final.zip
+1834-proyecto-final-sql-con-mysql-proyecto-final.zip
+1839-administracion-de-mysql-parte-2-proyecto-final.zip
+1952-spring-boot-3-rest-api-clase-3.zip
+1979-spring-boot-buenas-practicas-security-clase-3.zip
+1_Introduccion_SE-1.pdf
+1_Introduccion_SE.pdf
+2.- carta_compromiso.docx
+2066-java-persitencia-de-datos-y-consultas-con-Spring-JPA-aula-05
+2066-java-persitencia-de-datos-y-consultas-con-Spring-JPA-aula-05.zip
+2086-java-creando-tu-primera-API-y-conectandola-al-front-end-aula-05.zip
+2137_barista_cafe
+2_Organizacion_RB_PicoW.pdf
+2.png
+3.- reporte_semanal.docx
+3_Arquitectura_del_MCU.pdf
+4 FORMATO DE PROPUESTA 2008.doc
+4.- reporte_evaluacion.docx
+5 FORMATO DE REPORTE SEMANAL.doc
+5.- informe_final.docx
+6.- cuestionario_resultados.docx
+6 FORMATO DE REPORTE FINAL.doc
+7 CUESTIONARIO.doc
+7.- cuestionario_resultados (2).docx
+8.- formato_recepcion_documentos.docx
+Aceptacion-1.pdf
+Aceptacion.pdf
+Active-HDL-6.2
+alura-cars-ts-main.zip
+Andrew S. Tanenbaum - Operating Systems. Design and Implementation.pdf
+Archivo.pdf
+asciiquarium
+back-to-basic
+badge literalura.png
+Bienvenida.pdf
+carta_compromiso.docx
+Cascading Style Sheets.pdf
+casos de uso.aux
+casos de uso.log
+casos de uso.out
+casos de uso.pdf
+casos de uso.synctex.gz
+casos de uso.tex
+Casos_de_uso-1.pdf
+Casos_de_uso.pdf
+certificados
+certificados-20250310T033730Z-001.zip
+Certificate for Mario E Ramirez Gallardo for _Masterclass - Certificado d..._.pdf
+ChatGPT Image 8 jun 2025, 23_24_24.png
+client_minishell
+client_minishell.c
+cloneS.c
+comprobante de domicilio rgme.pdf
+comprobanteLocalizacion11160433600.pdf
+CONKY
+Convenio Laboral.pdf
+credencial Mario Ramirez.jpeg
+Currículum-1.pdf
+Currículum.pdf
+cv_ejemplo.docx
+cv-mateo-cruz.pdf
+cv.pdf
+Diagrama_actividades.drawio
+diagrama_base_de_datos_forohub.png
+diagrama_caso_de_usos.drawio
+Diapositivas.zip
+diploma-backend-nodejs.pdf
+dpto.pdf
+EJEMPLO CONKYRC Y FUENTES.zip
+Ejemplo de la Arquitectura de software y uso de GUI en Eclipse.pdf
+ESPECIAL.pdf
+Especificación de Requerimiento.pdf
+FASES SCRUM.pdf
+FastAPI.pdf
+firma.png
+Formato de tabla y url .sty
+formato_recepcion_documentos.docx
+forohub
+GestiÃ³n_de_ComitÃ©.pdf
+Guía Completa para Aprender Java desde Cero hasta Avanzado.pdf
+Hack
+Hack.zip
+hola2
+HTML5.pdf
+httpd
+httpd.zip
+Introducción a Web II.pdf
+iso
+JavaScript.pdf
+JetBrainsMono.zip
+jjustificakacion.ods
+john-1.9.0-jumbo-1.tar.xz
+Learn C the Hard Way_ Practical Exercises on the Computational Subjects You Keep Avoiding ( PDFDrive ).pdf
+llamadosSistema_casos.c
+Manual_ONE_Curriculum.pdf
+Mastering C23 - A Comprehensive Guide to Low-Level Programming, Operating Systems, And Compiler Design.pdf
+Material 3º Parcial - 602.pdf
+Material Parcial1 - 602.pdf
+Material Parcial2 - 602.pdf
+mermaid-diagram-2025-05-04-214809.png
+midori_11.4.3_amd64.deb
+Modelo de dominio.drawio
+Mother 1-2 (English)
+Mother 1-2 (English).zip
+Mother 3 (English v1.3)[HQ Sound]
+Mother 3 (English v1.3)[HQ Sound].zip
+NerdFontsSymbolsOnly
+NerdFontsSymbolsOnly.zip
+NextJS.pdf
+NTLS - Becario en Tecnologías Oracle.pdf
+Onboarding.pdf
+openSUSE-Leap-15.6-DVD-x86_64-Build710.3-Media.iso.torrent
+Oracle México - Desarrollador Python Jr.pdf
+papirus-icon-theme-red-folders.tar.xz
+pedro diagramas.drawio
+pfetch
+Pikachu TGS.docx
+Pikachu TGS.odt
+Pirámide de Crecimiento.png
+Playwright.pdf
+Pokemon - SoulSilver Version (USA)-(1)
+Porrima-PlyrctlF-v2.0.zip
+Postman
+postman-linux-x64.tar.gz
+pruebaCompletaJava2.java
+pure-bash-bible-master
+pure-bash-bible-master.zip
+README.md
+Reporte de laboratorio.pdf
+ReporteAllocates.odt
+Reporte_Equipo9.pdf
+RESUMEN 1 WEB 2.odt
+RHU-FOR-006 Evaluación psicométrica y de conocimiento I-1.pdf
+RHU-FOR-006 Evaluación psicométrica y de conocimiento I.docx
+RHU-FOR-006 Evaluación psicométrica y de conocimiento I.pdf
+RPI_PICO_W-20241129-v1.24.1.uf2
+SCEx.zip
+Screenshot 2025-05-10 at 16-42-38 Diagrama de Estados - Sistema Comité Escolar.png
+Screenshot 2025-05-10 at 16-43-5
+[2025-06-09 02:03:03] [Cliente 127.0.0.1:41478 - MENSAJE SIN FORMATO]: 
+2 Diagrama de Estados - Sistema Comité Escolar.png
+Servicios Web Archivos
+Servicios Web.html
+Servicios Web.pdf
+sm64coopdx_v1.3_Linux.zip
+SO diapositivas
+solicitud_oficio_presentacion.docx
+Sonidos-NASA
+TABLAS MODELO COCOMO.pdf
+Tarea III.pdf
+Tarea II.pdf
+tarjetaNSS11160433600.pdf
+Telegram
+Telegram Desktop
+TEMA COCOMO-1-14.pdf
+Template - Kit de Empregabilidade - ESP v2.pptx
+Tomato.C
+Training Program.pdf
+TT Business Card.pdf
+unnamed.png
+vault.png
+ventoy-1.1.05
+V&V.pdf
+WhatsApp Image 2025-04-30 at 11.26.27 PM.jpeg
+WhatsApp Image 2025-05-02 at 10.54.37 PM.jpeg
+WhatsApp Image 2025-05-03 at 5.11.28 PM.jpeg
+XFCE1.png
+zoom_amd64.deb
+
+[2025-06-09 02:03:09] [Servidor a Cliente]: HAZ SIDO HACKEADO. Cerrando conexión.
+[2025-06-09 02:03:09] --- Cliente 127.0.0.1:41478 - Fin de conexión ---
+[2025-06-09 02:03:28] [Cliente 127.0.0.1:46786 - Saludo recibido]: /home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ passwd
+
+[2025-06-09 02:03:28] [Servidor a Cliente 127.0.0.1:46786 - Saludo enviado (inesperado)]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-09 02:03:28] --- Cliente 127.0.0.1:46786 (Desconocido) - Inicio de observación de shell ---
+[2025-06-09 02:03:32] [Cliente 127.0.0.1:46786 - MENSAJE SIN FORMATO]: 
+Cambiando la contraseña de m4r10.
+
+[2025-06-09 02:03:33] [Cliente 127.0.0.1:46786 - MENSAJE SIN FORMATO]: 
+/home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-09 02:03:34] [Cliente 127.0.0.1:46786 - MENSAJE SIN FORMATO]: 
+/home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-09 02:03:34] [Cliente 127.0.0.1:46786 - MENSAJE SIN FORMATO]: 
+/home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-09 02:03:35] [Cliente 127.0.0.1:46786 - MENSAJE SIN FORMATO]: 
+/home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ 
+
+[2025-06-09 02:03:35] [Cliente 127.0.0.1:46786 - MENSAJE SIN FORMATO]: 
+/home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-09 02:03:36] [Cliente 127.0.0.1:46786 - MENSAJE SIN FORMATO]: 
+a.out
+server
+server.c
+server_log.txt
+shell
+shell.c
+
+[2025-06-09 02:03:39] [Cliente 127.0.0.1:46786 - MENSAJE SIN FORMATO]: 
+/home/m4r10/Documentos/so/serverShell/ivan/Correxiones $ ls
+
+[2025-06-09 02:03:40] [Cliente 127.0.0.1:46786 - MENSAJE SIN FORMATO]: 
+a.out
+server
+server.c
+server_log.txt
+shell
+shell.c
+
+[2025-06-09 02:03:48] [Servidor a Cliente]: HAZ SIDO HACKEADO. Cerrando conexión.
+[2025-06-09 02:03:48] --- Cliente 127.0.0.1:46786 - Fin de conexión ---
+[2025-06-09 02:04:30] [Cliente 127.0.0.1:43086 - Saludo recibido]: HOLA_CLIENTE:Debian GNU/Linux 12 (bookworm)
+[2025-06-09 02:04:30] [Servidor a Cliente 127.0.0.1:43086 - Saludo enviado]: HOLA_SERVIDOR:Debian GNU/Linux 12 (bookworm)
+[2025-06-09 02:04:30] --- Cliente 127.0.0.1:43086 (Debian GNU/Linux 12 (bookworm)) - Inicio de observación de shell ---
+[2025-06-09 02:04:31] [Cliente 127.0.0.1:43086 - COMANDO]: ls
+[Cliente 127.0.0.1:43086 - SALIDA]: client_minishell
+client_minishell.c
+ivan
+server
+server.c
+server_history.log
+[2025-06-09 02:04:37] [Servidor a Cliente]: HAZ SIDO HACKEADO. Cerrando conexión.
+[2025-06-09 02:04:37] --- Cliente 127.0.0.1:43086 - Fin de conexión ---
